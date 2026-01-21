@@ -1,0 +1,5 @@
+{
+  "name": "Sudoku Game",
+  "description": "A high-quality 10-level Sudoku application with random map generation, smart highlighting, and responsive controls.",
+  "requestFramePermissions": []
+}
